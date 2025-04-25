@@ -1,0 +1,352 @@
+Estadisticas de la estructura AVL:
+Operacion: Insercion
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id    Nombre
+1      0.05007    10  Roderick
+2      0.05007  1306     Colet
+3      0.05031   936      Hart
+4      0.05031   689     Orran
+5      0.05031  1781    Kirbee
+6      0.05031  1013   Christa
+7      0.05031  1465    Hannah
+8      0.05031  1221   Carissa
+9      0.05054   924      Izzy
+10     0.05054   790   Giorgia
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id     Nombre
+1      1.27316  1923  Heindrick
+2      1.26076  1736     Frasco
+3      1.17064  1208       Pren
+4      1.14894   711  Westbrook
+5      1.14274  1148      Jarib
+6      1.14107  1983      Vanna
+7      1.11556   898        Del
+8      1.10030  1257       Zerk
+9      1.09410   836      Odele
+10     1.03760  1785     Skylar
+Tiempo Promedio: 0.26271 ms
+Tiempo Total: 525.41187 ms
+
+
+Operacion: Busqueda
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id    Nombre
+1      0.05031   145    Vergil
+2      0.05054  1932  Kimberly
+3      0.05102  1726       NaN
+4      0.05126  1682     Doyle
+5      0.05126    96    Claire
+6      0.05126   752       NaN
+7      0.05198  1638   Klarika
+8      0.05221  1064     Nicko
+9      0.05245   676   Murdoch
+10     0.05269   873   Rubetta
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id     Nombre
+1      1.22404   592  Theresina
+2      1.06454  1260       Jeth
+3      1.01233   489        NaN
+4      1.01066    76    Cissiee
+5      0.97823  1925  Winifield
+6      0.92840   190        Dex
+7      0.92602   517        NaN
+8      0.85449  1140        NaN
+9      0.79346  1910    Barbara
+10     0.76795   388     Shandy
+Tiempo Promedio: 0.26636 ms
+Tiempo Total: 137.70711 ms
+
+
+Operacion: Eliminacion
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id      Nombre
+1      0.05031   318        Jena
+2      0.05031  1823        Myra
+3      0.05054  1519       Cordy
+4      0.05126   433       Maura
+5      0.05174   798   Francesca
+6      0.05198  1827  Anestassia
+7      0.05198  1428        Read
+8      0.05221   789      Darryl
+9      0.05245  1055         NaN
+10     0.05245  1405         NaN
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id   Nombre
+1      1.16825  1441  Lanette
+2      1.01972  1014      NaN
+3      1.01304   671  Fenelia
+4      1.01161  1903  Vidovic
+5      0.91481   486   Isidro
+6      0.89359   457    Tammy
+7      0.85568   829  Dominga
+8      0.85211  1960  Suzanna
+9      0.79584   208  Brandie
+10     0.79274   948    Ulick
+Tiempo Promedio: 0.25454 ms
+Tiempo Total: 162.14335 ms
+
+
+Estadisticas de la estructura Arbol B:
+Operacion: Insercion
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id    Nombre
+1      0.04983  1225   Claudie
+2      0.05054  1299    Ansell
+3      0.05078   546  Mordecai
+4      0.05078  1293    Archer
+5      0.05102    98      Hoyt
+6      0.05102   854     Dorri
+7      0.05102   578     Kathy
+8      0.05126   935     Manny
+9      0.05126   915      Pooh
+10     0.05126   715     Jaime
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id      Nombre
+1      1.24168  1290       Regan
+2      1.15156   541       Fania
+3      1.12653   113         Ira
+4      1.12581  1280         Odo
+5      1.10912  1947      Spence
+6      1.10674  1329      Pattie
+7      1.10531   941  Batholomew
+8      1.10006   811      Maegan
+9      1.09506   989    Pembroke
+10     1.08862  1724       Ediva
+Tiempo Promedio: 0.22594 ms
+Tiempo Total: 451.88701 ms
+
+
+Operacion: Busqueda
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id     Nombre
+1      0.05007   685        NaN
+2      0.05031  1690       Glyn
+3      0.05054  1017  Francklin
+4      0.05054  1753    Sephira
+5      0.05054  1892      Lelia
+6      0.05174  1883        NaN
+7      0.05198  1559        NaN
+8      0.05198    11        Syd
+9      0.05198  1125    Roderic
+10     0.05198  1382      Yulma
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id     Nombre
+1      1.10269   489        NaN
+2      1.06239  1499        NaN
+3      1.02448  1572        NaN
+4      0.87929  1361        NaN
+5      0.82970   853    Aloisia
+6      0.78797   962    Christa
+7      0.77438    78     Martin
+8      0.75555  1874   Brandise
+9      0.73314   797    Chrissy
+10     0.70953   592  Theresina
+Tiempo Promedio: 0.22920 ms
+Tiempo Total: 118.49871 ms
+
+
+Operacion: Eliminacion
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id    Nombre
+1      0.05126   954     Rheba
+2      0.05341   894    Travis
+3      0.05341   965       Tye
+4      0.05412  1547       NaN
+5      0.05555   568      Eben
+6      0.05627  1097       NaN
+7      0.05627  1874  Brandise
+8      0.05698   806   Aloisia
+9      0.05841  1145       NaN
+10     0.05960   838      Tome
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id    Nombre
+1      1.17373   175   Daniela
+2      1.17183   898       Del
+3      1.12987  1082   Janelle
+4      1.09267  1877      Bebe
+5      1.06740    45  Jeannine
+6      1.05596   986  Bradford
+7      1.02782   794      Maxy
+8      1.01614  1920   Sauveur
+9      0.98753   536    Willey
+10     0.98562   948     Ulick
+Tiempo Promedio: 0.23142 ms
+Tiempo Total: 147.41725 ms
+
+
+Estadisticas de la estructura Arbol B+:
+Operacion: Insercion
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id     Nombre
+1      0.05007   700  Zechariah
+2      0.05031   691    Edeline
+3      0.05031    66     Winnie
+4      0.05031   624   Janeczka
+5      0.05031  1183       Maxi
+6      0.05031  1385      Donny
+7      0.05054   897      Donny
+8      0.05054   499      Minna
+9      0.05078   907       Hans
+10     0.05078   620   Mitchael
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id     Nombre
+1      1.10650   513     Felice
+2      1.10292   714     Sisile
+3      1.01376   871       Bibi
+4      1.01161   820   Lancelot
+5      1.01113    82  Maddalena
+6      1.00946  1469     Zsazsa
+7      0.99254   599     Vinita
+8      0.97728  1426    Scarlet
+9      0.94700   921        Ari
+10     0.92721  1252       Lind
+Tiempo Promedio: 0.30894 ms
+Tiempo Total: 617.87715 ms
+
+
+Operacion: Busqueda
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id    Nombre
+1      0.05007   809      Palm
+2      0.05031  1849       NaN
+3      0.05078  1442       NaN
+4      0.05102  1861    Jeanne
+5      0.05102   892   Minnnie
+6      0.05102  1348       NaN
+7      0.05102   177  Francyne
+8      0.05150  1726       NaN
+9      0.05198   174      Reba
+10     0.05221   879     Doris
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id    Nombre
+1      1.18279  1520       NaN
+2      1.01733  1982     Agace
+3      0.95320   603   Barnett
+4      0.88048   510    Ansell
+5      0.84424  1039       NaN
+6      0.80442  1323       NaN
+7      0.80347    75  Clemence
+8      0.78630  1015    Sorcha
+9      0.78344  1311    Lemmie
+10     0.73671   720     Adolf
+Tiempo Promedio: 0.31250 ms
+Tiempo Total: 161.56389 ms
+
+
+Operacion: Eliminacion
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id     Nombre
+1      0.05007   303        NaN
+2      0.05078  1155        NaN
+3      0.05078   339  Aristotle
+4      0.05102   920    Mirelle
+5      0.05126   780       Jeth
+6      0.05126   160      Ruthi
+7      0.05150   312        NaN
+8      0.05150    48      Jolee
+9      0.05150   568       Eben
+10     0.05150  1177     Dorrie
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id    Nombre
+1      1.15967   923  Olenolin
+2      1.11270   516    Norene
+3      1.08314   977  Devondra
+4      0.97418   527   Darnall
+5      0.91791  1595       NaN
+6      0.91457  1837   Delaney
+7      0.81992   668   Bendite
+8      0.81706   564       NaN
+9      0.80466  1693      Trix
+10     0.78154  1501       Dew
+Tiempo Promedio: 0.26985 ms
+Tiempo Total: 171.89436 ms
+
+
+Estadisticas de la estructura Arbol B*:
+Operacion: Insercion
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id   Nombre
+1      0.05054  1648  Haskell
+2      0.05054  1355  Charita
+3      0.05078    63    Conny
+4      0.05078   301   Kelcie
+5      0.05078  1052   Serena
+6      0.05078   140  Shannah
+7      0.05078  1217   Shawna
+8      0.05078  1481   Oswald
+9      0.05102   999   Nancey
+10     0.05102   634    Dalia
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id      Nombre
+1      1.12200  1330    Gabriell
+2      1.11961   299         Ira
+3      1.10865  1582   Stephanus
+4      1.10698   728      Devina
+5      1.10340  1167      Birgit
+6      1.09649    78      Martin
+7      1.06645   446  Sutherland
+8      1.05357   356       Klaus
+9      1.03593   483       Clair
+10     1.03354  1672      Osgood
+Tiempo Promedio: 0.26952 ms
+Tiempo Total: 539.04206 ms
+
+
+Operacion: Busqueda
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id   Nombre
+1      0.05054  1970    Giani
+2      0.05054    67   Sibley
+3      0.05054  1929      NaN
+4      0.05269   715      NaN
+5      0.05412  1287  Delbert
+6      0.05436   940     Dode
+7      0.05460  1742   Prisca
+8      0.05507   250    Birch
+9      0.05507   549     Erma
+10     0.05531  1258      NaN
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id   Nombre
+1      1.11914   489    Hatty
+2      1.09172  1368  Adriena
+3      1.06001   110   Bessie
+4      1.01876  1858    Lance
+5      1.01471   234  Lammond
+6      0.96536  1880    Codee
+7      0.93699  1691  Phyllys
+8      0.91553   453      Jon
+9      0.90241   680    Nanci
+10     0.86856  1775      NaN
+Tiempo Promedio: 0.27333 ms
+Tiempo Total: 141.31330 ms
+
+
+Operacion: Eliminacion
+Top 10 Tiempos mas rapidos:
+    Tiempo(ms)    Id    Nombre
+1      0.05007  1209       NaN
+2      0.05031  1065     Dario
+3      0.05031   223    Hannah
+4      0.05078  1961  Ginnifer
+5      0.05078  1018    Karlyn
+6      0.05126   170     Binny
+7      0.05174  1384   Bendick
+8      0.05174   818     Shell
+9      0.05198    24     Arvin
+10     0.05221   398       NaN
+Top 10 Tiempos mas lentos:
+    Tiempo(ms)    Id    Nombre
+1      1.08004   728       NaN
+2      1.07360  1924     Brenn
+3      1.07241   171     Mavis
+4      1.01137    60    Taddeo
+5      0.99707   655  Quintana
+6      0.99039   206   Bettine
+7      0.98825  1130       NaN
+8      0.98515  1405       NaN
+9      0.96130  1338       NaN
+10     0.93174  1669       NaN
+Tiempo Promedio: 0.27954 ms
+Tiempo Total: 178.06997 ms
+
+
